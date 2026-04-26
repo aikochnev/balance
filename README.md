@@ -29,16 +29,16 @@
 `При необходимости прикрепитe сюда скриншоты
 
 
-<img src = "img/z01.png" width = 100%>
+<img src = "img/b01.png" width = 100%>
 
 ---
 
 ### Задание 2
 
 
-<img src = "img/z02.png" width = 100%>
+<img src = "img/b02.png" width = 100%>
 
-
+<img src = "img/b03.png" width = 100%>
 ---
 
 ### Задание 3
